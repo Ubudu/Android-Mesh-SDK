@@ -1,4 +1,4 @@
-# Ubudu Android Mesh SDK v1.0.0
+# Ubudu Android Mesh SDK v1.1.0
 
 ## Ubudu Mesh SDK for Android
 
