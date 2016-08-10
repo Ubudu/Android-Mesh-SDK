@@ -1,4 +1,4 @@
-# Ubudu Android Mesh SDK v1.1.4
+# Ubudu Android Mesh SDK v1.1.5
 
 ## Ubudu Mesh SDK for Android
 
@@ -13,8 +13,10 @@ Any Android device with Bluetooth 4.0 and Android 4.3 or higher.
 
 To use the library in an Android Studio project simply add:
 
-compile('com.ubudu.indoorlocation:ubudu-mesh-sdk:1.0.1@aar') {
-    transitive = true }
+	compile('com.ubudu.indoorlocation:ubudu-mesh-sdk:1.1.5@aar') {
+    	transitive = true 
+    }
+    
 to your project dependencies and run gradle build.
 
 A jar file of the SDK is also available in the /Ubudu-Mesh-SDK directory of this repository. To use it in your project (e.g. in Eclipse IDE) drop the jar file into the libs folder and configure the Java build path to include the library.
