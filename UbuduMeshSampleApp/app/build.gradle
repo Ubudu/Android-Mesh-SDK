@@ -29,7 +29,7 @@ dependencies {
     compile 'com.android.support:appcompat-v7:25.1.0'
     compile 'com.android.support:design:25.1.0'
 
-    compile('com.ubudu.mesh:ubudu-mesh-sdk:1.1.8@aar')  {
+    compile('com.ubudu.mesh:ubudu-mesh-sdk:1.2.1@aar')  {
         transitive = true
     }
 }
